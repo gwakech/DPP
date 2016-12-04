@@ -1,0 +1,73 @@
+Data Product Project
+========================================================
+author: George W. Akech
+date: 12/3/2016
+autosize: true
+
+
+## Shiny Visulization application
+
+Stock visualization appliaction demonstrates how  we can use shiny
+to build  reactive application  such as this stock visualization.
+The application gives users a two year window between 
+January 01, 2014 and December 31, 2016 to view stack trending.
+
+Demonstration of how to use:
+
+(i)   Shiny to build Data Product Application.
+
+(ii)  R - Presentation to create data product related Presentation
+
+
+
+Second Slide
+========================================================
+Stock visualization appliaction demonstrates how  we can use shiny
+to build  reactive application  such as this stock visualization.
+
+The visualization demo application uses SPY as the default stock to examine under
+the choosen window.
+
+Every time the appliaction runs, The application SPY ticker fetches data  from 
+Yahoo finance and Federal Reserve Bank.
+
+The appliaction uses chart series to display the series chart.
+
+
+Third Slide
+========================================================
+   Instruction on how to use the appliaction
+
+Users select range of dates within the window to examine stock trending.
+
+Instructions to users
+
+(i)   Confirm that SPY  has been selected.
+
+(ii)  Select a starting and ending dates of stock trending  to view
+
+(iii) Plot the stock prices on log scale on Y-Axis by checking the box 
+      for plotting Y-axis on log scale
+      
+(iv)  Adjust stock prices to cater for inflation
+
+
+
+
+Fourth Slide 
+========================================================
+Slide With Plot
+
+Click on the link below to view the chart
+
+https://gwakech.shinyapps.io/visualization/
+
+
+
+
+Fifth Slide 
+========================================================
+Slide With code
+
+
+
